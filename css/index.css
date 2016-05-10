@@ -90,7 +90,7 @@ a{
     width: 60%;
 }
 .button{
-    padding: 5px;
+    padding: 5px 10px;
     background-color: #4682B4;
     color: #ffffff;
     margin-left: -1px;
@@ -241,4 +241,36 @@ a{
 }
 .activity-detail p{
     text-indent: 2em;
+}
+.submit_content{
+    margin: 20px;
+}
+.submit_block{
+    line-height: 30px;
+}
+.submit_block span{
+    width: 20%;
+    padding-right: 10px;
+    display: block;
+}
+.text{
+    width: 60%;
+    height: 15px;
+    padding: 5px;
+}
+textarea{
+    width: 60%;
+    height: 80px;
+    padding: 5px;
+}
+.submit_img{
+    width: 160px;
+    height: 160px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    margin: 10px 0;
+}
+.submit_img a{
+    line-height: 160px;
+    padding: 30px;
 }
